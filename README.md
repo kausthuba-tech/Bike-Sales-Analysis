@@ -1,19 +1,23 @@
 
  
- INTRODUCTION: 
+INTRODUCTION: 
 A bike company were planning to launch a new bike model into the market, before releasing, They wanted to get insights about their sales based on previous bike models.
 
 
 Client Requirements:
+
 1.	Get information on Average Bikes Purchased
 2.	Insights about their Sales
 3.	Wanted to know the customer age bracket using their bikes Based on the Marital status, Gender and Region.
+
 
 Techniques Used:
 1. Excel Cleaning with Basic Formulas
 2. Vlookup
 3. Pivot Table
 4. Excel Slicers and Charts
+
+
 
 Conclusion:
 
