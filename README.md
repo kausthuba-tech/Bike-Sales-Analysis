@@ -1,4 +1,6 @@
-INTRODUCTION: 
+
+ 
+ INTRODUCTION: 
 A bike company were planning to launch a new bike model into the market, before releasing, They wanted to get insights about their sales based on previous bike models.
 
 
